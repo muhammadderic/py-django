@@ -1,0 +1,22 @@
+Include
+Lib
+MyNote
+Scripts
+
+# Virtual environment
+venv/
+
+# Django local database
+db.sqlite3
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE or editor files
+.vscode/
+*.log
+
+# Django secret keys (recommend environment variables)
+*.env
